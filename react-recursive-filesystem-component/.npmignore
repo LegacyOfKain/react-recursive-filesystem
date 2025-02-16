@@ -1,0 +1,8 @@
+src/
+tsconfig.json
+tsconfig.cjs.json
+.gitignore
+.github
+.idea/
+.vscode/
+coverage/
