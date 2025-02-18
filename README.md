@@ -19,7 +19,9 @@ react-recursive-filesystem-component is a React component library that provides 
 - Smooth animations using Framer Motion
 
 ## Further Documentation
-[link text](react-recursive-filesystem-component/README.md)
+[package usage](react-recursive-filesystem-component/README.md)
+
+[package creation](react-recursive-filesystem-component/Package Creation.md)
 
 ## react-recursive-filesystem-component-demo
 
