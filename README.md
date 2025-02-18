@@ -18,50 +18,8 @@ react-recursive-filesystem-component is a React component library that provides 
 - Expandable/collapsible directory views
 - Smooth animations using Framer Motion
 
-### Installation
-
-```bash
-npm install react-recursive-filesystem-component
-```
-
-### Peer Dependencies
-
-This library requires the following peer dependencies:
-
-- React 19.0.0 or higher
-- @heroicons/react 2.2.0 or higher
-- framer-motion 12.4.3 or higher
-- styled-components 6.1.15 or higher
-
-Install them if they're not already in your project:
-
-```bash
-npm install react@^19.0.0 react-dom@^19.0.0 @heroicons/react@^2.2.0 framer-motion@^12.4.3 styled-components@^6.1.15
-```
-
-### Usage
-
-```jsx
-import { FilesystemItem } from 'react-recursive-filesystem-component';
-
-const App = () => {
-  const fileSystem = {
-    name: 'root',
-    children: [
-      { name: 'file1.txt' },
-      { 
-        name: 'folder1',
-        children: [
-          { name: 'file2.txt' },
-          { name: 'file3.txt' }
-        ]
-      }
-    ]
-  };
-
-  return <FilesystemItem node={fileSystem} />;
-};
-```
+## Further Documentation
+[link text](react-recursive-filesystem-component/README.md)
 
 ## react-recursive-filesystem-component-demo
 
@@ -75,42 +33,8 @@ react-recursive-filesystem-component-demo is a demo application that showcases t
 - Examples of different file and folder structures
 - Customization options showcase
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-recursive-filesystem.git
-   ```
-
-2. Navigate to the demo directory:
-   ```bash
-   cd react-recursive-filesystem/react-recursive-filesystem-component-demo
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-### Running the Demo
-
-To start the development server:
-
-```bash
-npm run dev
-```
-
-The demo will be available at `http://localhost:3000` (or another port if 5173 is in use).
-
-### Building for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-The built files will be in the `dist` directory.
+## Further Documentation
+[link text](react-recursive-filesystem-component-demo/README.md)
 
 ## Contributing
 
