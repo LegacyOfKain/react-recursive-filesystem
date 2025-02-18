@@ -18,10 +18,10 @@ react-recursive-filesystem-component is a React component library that provides 
 - Expandable/collapsible directory views
 - Smooth animations using Framer Motion
 
-## Further Documentation
-[package usage](react-recursive-filesystem-component/README.md)
+### Further Documentation
+[package usage steps](react-recursive-filesystem-component/README.md)
 
-[package creation](react-recursive-filesystem-component/Package Creation.md)
+[package creation steps](react-recursive-filesystem-component/Package%20Creation.md)
 
 ## react-recursive-filesystem-component-demo
 
@@ -36,7 +36,7 @@ react-recursive-filesystem-component-demo is a demo application that showcases t
 - Customization options showcase
 
 ## Further Documentation
-[link text](react-recursive-filesystem-component-demo/README.md)
+[how to run project](react-recursive-filesystem-component-demo/README.md)
 
 ## Contributing
 
